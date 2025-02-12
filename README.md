@@ -1,8 +1,4 @@
-# React + Vite
+# PokeDesk-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This App is Created to enhance My knowledge in the context of the React-Js 
+It is an app Named Pokedesk because user can search here as well as are able to see the list of various Pokemons
