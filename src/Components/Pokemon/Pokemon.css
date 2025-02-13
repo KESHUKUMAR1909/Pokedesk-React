@@ -4,7 +4,12 @@
     align-items: center;
     flex-direction: column;
 }
+.pokemonCard:hover{  
+    background-color: rgb(222, 222, 243);
+    border-radius: 20px;
+}
 .image-height-width{
+    padding: 2px;
    width: 200px;
    height: 200px;
 }

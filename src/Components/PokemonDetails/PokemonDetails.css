@@ -1,0 +1,17 @@
+.pokemon-container{
+    font-size: 20px;
+    letter-spacing: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(62, 59, 59);
+}
+.type-prop{
+    padding: 10px;
+    background-color: rgba(105, 105, 243, 0.31);
+    border-radius: 10px;
+}
