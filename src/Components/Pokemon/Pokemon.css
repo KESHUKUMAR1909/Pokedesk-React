@@ -13,3 +13,12 @@
    width: 200px;
    height: 200px;
 }
+@media  screen and (max-width:500px) {
+    .pokemonCard{
+        width: 100%;
+    }
+    .image-height-width{
+        width: 100%;
+        height: 200px;
+    }
+}
